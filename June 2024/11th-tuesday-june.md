@@ -1,0 +1,2 @@
+INNER JOIN
+An `INNER JOIN` returns only the rows where there is a match between the columns in both tables being joined. In this case, it matches rows from the `Jobs` table with rows from the `Contracts` table where the `ContractId` in the `Jobs` table is equal to the `id` in the `Contracts` table.
